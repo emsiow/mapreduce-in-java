@@ -4,7 +4,7 @@
 ## Build the jar
 ```sh
 #build the java jar file
-gradle fatjar
+gradle shadowJar
 ```
 
 ## Copy it over to the client
